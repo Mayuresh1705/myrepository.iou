@@ -32,9 +32,7 @@
     </ul>
 </section>
 
-<footer>
-    <p>&copy; 2024 AI Info</p>
-</footer>
+
 
 </body>
 </html>
