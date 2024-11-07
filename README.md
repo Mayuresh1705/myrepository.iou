@@ -21,7 +21,7 @@
     <ul>
         <li><strong>Narrow AI</strong>: Task-specific, like voice assistants.</li>
         <li><strong>General AI</strong>: Aims to perform any human task (still under research).</li>
-        <li><strong>Superintelligent AI</strong>: Hypothetical AI that can perform tasks like human intelligence.</li>
+        <li><strong>Superintelligent AI</strong>: Hypothetical AI that can perform tasks that human intelligence fails or cannot perform.</li>
     </ul>
 </section>
 
